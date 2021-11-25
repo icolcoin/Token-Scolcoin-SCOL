@@ -12,7 +12,7 @@ Source code: https://github.com/scolcoin/Token-Scolcoin-SCOL/blob/main/scolcoin.
 
 ## OpenZeppelin - Implementación segura
 
-Nuestros Smart Contracts se basan en seguros y confiables [OpenZeppelin ERC-20 Smart Contract](https://docs.openzeppelin.com/contracts/4.x/erc20)
+Nuestros Smart Contracts se basan en seguridad y confianza. [OpenZeppelin ERC-20 Smart Contract](https://docs.openzeppelin.com/contracts/4.x/erc20)
 
 OpenZeppelin el código está en el corazón de nuestros tokens y seguimos sus prácticas de seguridad e implementación con mucho cuidado.
 
@@ -31,7 +31,7 @@ Nuestro proyecto nació el 3 de enero de 2018 con el bloque génesis de la caden
 https://github.com/scolcoin/Whitepaper/blob/main/White%20Paper%20Scolcoin%20ver%202.0.0.2.pdf
 
 ## Criptomoneda SCOLCOIN (SCOL) Blockchain Nativa 2018 - 2021
-El Proyecto Social Scolcoin en su etapa de creación fue presentado a la comunidad como el activo digital ecológico colombiano para alcanzar la fase Proof of Stake, logrando posicionamiento y reconocimiento en LatAm. Su bloque de génesis se realizó el 3 de enero de 2018, se conformaron los comités y presencia en comunidades.
+El Proyecto Social Scolcoin en su etapa de creación fue presentada a la comunidad como el activo digital ecológico colombiano para alcanzar la fase Proof of Stake, logrando posicionamiento y reconocimiento en LatAm. Su bloque de génesis se realizó el 3 de enero de 2018, se conformaron los comités y presencia en comunidades.
 
 * Link Código Scolcoin blockchain
 https://github.com/scolcoin/scolcoin
@@ -63,7 +63,7 @@ Establecerse en el mercado internacional con una estrategia de inversión y un f
 Pool Miner + Investment (Liquidity Fund) = Token Scol
 
 ## Token Scolcoin (2021 -2022)
-Desarrollado como un token de respaldo para la comunidad, Scolcoin nace el día.
+Desarrollado como un token de respaldo para la comunidad, Scolcoin nace el día 13 Noviembre de 2021.
 
 Basado en la wallet SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW link explorador: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
 
@@ -102,7 +102,7 @@ Cada 30 días distribuimos las recompensas generadas en la cadena de bloques nat
 
 # Retiro de fondos
 
-Podrás canjear tu token Scolcoin por Scolcoin Nativo cuando finalice la primera fase 2 años.
+Podrás canjear tu token Scolcoin por Scolcoin Nativo cuando finalice la primera fase (2 años).
 
 ## Investment (Fondo Liquidez)
 Un fondo de inversión colectiva Scolcoin también llamado liquidez en los intercambios descentralizados, este bloque consiste en recolectar fondos de diferentes inversionistas, naturales o legales, para apalancar el activo Token Scolcoin en los DELFIs actuales con diferentes pares, logrando capitalizar el proyecto a través de la tenencia de 2 años recibiendo recompensas directas a sus billeteras con Scolcoin Nativo, mediante minería en prueba de participación 10% anual. los recursos se aplicarán directamente en forma de liquidez en diferentes pares.
